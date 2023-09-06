@@ -1,44 +1,70 @@
-# Sprint 2
-## Oyun İsmi
-**Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 100 ile devam etmesinin uygun olduğuna karar verildi.
+## Available Scripts
 
+In the project directory, you can run:
 
-**Daily Scrum**: Daily Scrum toplantıları hergün discord üzerinden sesli olarak yapıldı.  
-  [Sprint 1 Daily Scrum Chats]
- 
+### `npm start`
 
-  **Sprint board update**: Sprint board screenshotları:
-  
-![sprint2](https://github.com/AliUzunkaya/Deneme/assets/121873745/ad691b53-db47-4e41-bb64-33d45ab32405)
-  
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- **Ürün Durumu**: Ekran görüntüleri:
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-  ![IMG-20230702-WA0000](https://github.com/AliUzunkaya/Deneme/assets/121873745/1b4f13be-e193-42df-a87f-dc3e856cd6c6)
-![IMG-20230702-WA0001](https://github.com/AliUzunkaya/Deneme/assets/121873745/944b3ebe-279e-442b-8bb2-1b2f76b188ed)
-![IMG-20230702-WA0002](https://github.com/AliUzunkaya/Deneme/assets/121873745/a1954854-3696-4564-87bb-00c4e10c55b6)
-![IMG-20230702-WA0003](https://github.com/AliUzunkaya/Deneme/assets/121873745/8d025f22-0f13-4c45-a4e6-c780b0306a90)
-![IMG-20230702-WA0004](https://github.com/AliUzunkaya/Deneme/assets/121873745/584c4214-5a13-4adf-b6df-29dfd5f8ec17)
- 
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- **Sprint Review**: 
-Oyunda uzaylılara maden mekaniği özellikleri eklendi.Maden bölgesini koruyan yapay zekalar eklendi. Silah değiştirme özelliği eklendi. Sprint Review katılımcıları: Roşna Sarıkaş, Ahmet Öztürk Şahin, Ali Uzunkaya
-• Projenin bitişi için planlama yapıldı• Projeyi hızlandırma kararı alınmıştır. • Projede değerlendirme için artı puan olacak noktalar arasından seçimler yapıldı.
-Sprint Review katılımcıları: Roşna Sarıkaş, Ahmet Öztürk Şahin, Ali Uzunkaya
+### `npm run build`
 
-- **Sprint Retrospective:**
-  •Projenin bitişi için planlama yapıldı
-  •Projeyi hızlandırma kararı alınmıştır.
-  •Projede değerlendirme için artı puan olacak noktalar arasından seçimler yapıldı.
- 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Product Backlog URL
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-https://miro.com/app/board/uXjVM9rT6Uw=/?share_link_id=140801382840
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
----
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
